@@ -1,0 +1,6 @@
+nome =input("nome do aluno")
+nota1 =float(input("prova 1"))
+nota2 =float(input("prova 2"))
+print(nome)
+media = ((nota1+nota2)/2)
+print(media)
